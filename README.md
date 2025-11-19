@@ -65,14 +65,17 @@ Power Supply and Grounding<br>
 The circuit is powered by a DC supply (typically 5V or 9V) connected at the VCC and GND lines. All ICs and components share a common ground to maintain correct operation.
 
 # CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/2cb084f1-22ea-4d4e-816d-eee72cd2918f)
 
+![image](https://github.com/user-attachments/assets/2cb084f1-22ea-4d4e-816d-eee72cd2918f)
  
 # EXPECTED OUTPUT:
 ## Schematic diagram:
- 
+
+ ![ex7 scmatic diagram](https://github.com/user-attachments/assets/6c13ef87-0850-4719-ab38-0939ad7bc4f7)
+
 ## Layout diagram:
- 
+
+ ![layout 7](https://github.com/user-attachments/assets/e6fa7e09-e434-4426-b2e6-d1b1e980eed3)
+
 # RESULT:
 Thus, the schematic and PCB layout for the LED sequencer circuit has been successfully designed using Altium software.
-
